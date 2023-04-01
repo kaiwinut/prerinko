@@ -1,16 +1,18 @@
 # PyTorch Tutorial for MIL Prerinko 2023
 
-## Usage
 PyTorch、logging、argparseのチュートリアル。
 
 Tutoral for PyTorch, logging, and argpase.
 
-## Examples
+## Usage
+
 - 実行前に下記のフォーマットに沿って`.env`を作成
 ```
 CIFAR_ROOT=[PATH_FOR_CIFAR_DATASET]
 MODEL_OUTPUT=[PATH_FOR_MODEL_OUTPUT]
 ```
+
+## Examples
 
 - 訓練 / Training
 ```
