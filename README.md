@@ -12,6 +12,8 @@ CIFAR_ROOT=[PATH_FOR_CIFAR_DATASET]
 MODEL_OUTPUT=[PATH_FOR_MODEL_OUTPUT]
 ```
 
+- 下記の訓練と評価スクリプトを実行
+
 ## Examples
 
 - 訓練 / Training
